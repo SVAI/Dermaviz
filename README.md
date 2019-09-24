@@ -1,6 +1,6 @@
 # Dermaviz
 <p align="center">
-<img src="https://github.com/SVAI/Dermaviz/raw/master/assets/logo.png" width="256" title="Dermaviz Logo"/>
+<img src="https://raw.githubusercontent.com/SVAI/Dermaviz/master/assets/logo.png" width="256" title="Dermaviz Logo"/>
 </p>
 
 # Dermaviz: Comprehensive Research Suite for integrated Phenotyping, Genotyping and 3D Modeling for NF patients
@@ -68,16 +68,21 @@ Our suite integrates with a patient questionnaire and genomic data collection. E
 #### Patient Invite Code:
 
 Once the form data and genomic data is available, the Dermaviz server generates an invite code and sends it to the patient. On the app, the patient enters the invite code. This code is cached client side and is used to send all data to the server.
+
 <img src="https://raw.githubusercontent.com/SVAI/Dermaviz/master/assets/invite-code.png" height="512" title="Dermaviz Invite Code"/>
 
 #### Patient Scanning
 After entering the invite code, patients are instructed to scan their face. After a successful scan, these scans are uploaded to our server. 
 
 ##### Demo 1:
-<img src="https://github.com/SVAI/Dermaviz/raw/master/assets/demo-1.gif" height="512" />
+<img src="https://raw.githubusercontent.com/SVAI/Dermaviz/master/assets/demo-1.gif" height="512" />
 
 ##### Demo 2:
-<img src="https://github.com/SVAI/Dermaviz/raw/master/assets/demo-2.gif" height="512" />
+<img src="https://raw.githubusercontent.com/SVAI/Dermaviz/master/assets/demo-2.gif" height="512" />
+
+#### Dashboard Concept
+<img src="https://raw.githubusercontent.com/SVAI/Dermaviz/master/assets/dashboard-concept.png" height="512" title="Dermaviz Invite Code"/>
+
 
 ## Conclusion/Discussion:
 
